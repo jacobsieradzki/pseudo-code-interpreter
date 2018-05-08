@@ -7,7 +7,7 @@ The pseudo code guide syntax from OCR can be found [here](www.ocr.org.uk/Images/
 
 ## The App 📱
 
-My app has an editor, a console and a code library. On the left, the user types in their pseudo code. The user clisk **CHECK** where they are asked to input any inputs that are required throughout the program. If the program is valid, they will be able to press the **PLAY** button, which will run the program and print the output to the console on the right. The user can either run the program all at once, or run it line by line. They can also save code snippets to the code library.
+My app has an editor, a console and a code library. On the left, the user types in their pseudo code. The user clicks **CHECK** where they are asked to enter any inputs that are required throughout the program. If the program is valid, they will be able to press the **PLAY** button, which will run the program and print the output to the console on the right. The user can either run the program all at once, or run it line by line. They can also save code snippets to the code library.
 
 ![iPad Screenshot](https://raw.githubusercontent.com/jacobsieradzki/pseudo-code-interpreter/master/Images/app-screenshot.png)
 
@@ -17,7 +17,7 @@ The documentation that is submitted to the exam board is in the document: "Cours
 
 ## Pull Requests ↪️
 
-I'm always open to improving this project! If there are changes you would like to submit, please open a branch and a pull request and I'll review as soon as I can.
+I'm always open to improving this project! 🏗 If there are changes you would like to submit, please open a branch and a pull request and I'll review as soon as I can.
 
 ## License ⚖️
 
