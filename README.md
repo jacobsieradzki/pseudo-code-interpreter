@@ -13,7 +13,7 @@ My app has an editor, a console and a code library. On the left, the user types 
 
 ## Documentation 📖
 
-The documentation that is submitted to the exam board is in the document: "Coursework Document.docx" and scored full marks (75/75) in internal marking for my A level.
+The documentation that is submitted to the exam board is in the document: "Coursework Document.docx" and scored full marks (75/75) when marked for my A level by my teachers and examiners.
 
 ## Pull Requests ↪️
 
