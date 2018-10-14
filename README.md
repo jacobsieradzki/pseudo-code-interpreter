@@ -15,10 +15,6 @@ My app has an editor, a console and a code library. On the left, the user types 
 
 The documentation that is submitted to the exam board is in the document: "Coursework Document.docx" and scored full marks (75/75) when marked for my A level by my teachers and examiners.
 
-## Pull Requests ↪️
-
-I'm always open to improving this project! 🏗 If there are changes you would like to submit, please open a branch and a pull request and I'll review as soon as I can.
-
 ## License ⚖️
 
 This project is licensed under the MIT license:
